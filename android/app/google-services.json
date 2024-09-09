@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795536037985",
+    "project_id": "socapp-ba7d1",
+    "storage_bucket": "socapp-ba7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795536037985:android:2f6ec834f391b2bac2b220",
+        "android_client_info": {
+          "package_name": "com.example.inst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3sbf3TZhEeUldjAETcKzdYPpsMm_gRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795536037985:android:5cf37e3996034fb8c2b220",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3sbf3TZhEeUldjAETcKzdYPpsMm_gRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
